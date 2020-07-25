@@ -1,7 +1,8 @@
 * [Introduction](#introduction)
+* [CourseScraper](#coursescraper)
 * [StudyFirst](#studyfirst)
 * [DistanceBetweenMultiplePoints](#distancebetweenmultiplepoints)
-* [CourseScraper](#coursescraper)
+* [Updates](#updates)
 
 <a name="introduction"/>
 
@@ -28,3 +29,7 @@ Determine the optimal order to study for one's university courses
 Generate a gradient overlay on a map to determine optimal locations to reduce travel time between multiple points.
 
 Can be used to determine meeting places or find housing, such that travel time is minimized.
+
+## Updates
+
+* [CourseScraper](https://github.com/shreykshah/CourseScraper): fixed compatibility issues
