@@ -3,7 +3,6 @@
 * [OnlineProctorSpoofer](#onlineproctorspoofer)
 * [CourseScraper](#coursescraper)
 * [StudyFirst](#studyfirst)
-* [DistanceBetweenMultiplePoints](#distancebetweenmultiplepoints)
 * [Updates](#updates)
 
 <a name="introduction"/>
@@ -38,14 +37,7 @@ Find courses that both fulfill your graduation requirements and are easy (based 
 
 Determine the optimal order to study for one's university courses
 
-<a name="distancebetweenmultiplepoints"/>
-
-## [DistanceBetweenMultiplePoints](https://github.com/shreykshah/DistanceBetweenMultiplePoints)
-
-Generate a gradient overlay on a map to determine optimal locations to reduce travel time between multiple points.
-
-Can be used to determine meeting places or find housing, such that travel time is minimized.
-
 ## Updates
 
+* [DistanceBetweenMultiplePoints](#introduction): Removed this script as I am no longer supporting it (low useage, high number of support requests). If you want the codebase, feel free to email me asking for it.
 * [CourseScraper](https://github.com/shreykshah/CourseScraper): fixed compatibility issues
