@@ -1,4 +1,5 @@
 * [Introduction](#introduction)
+* [Class-Scheduler](#class-scheduler)
 * [OnlineProctorSpoofer](#onlineproctorspoofer)
 * [CourseScraper](#coursescraper)
 * [StudyFirst](#studyfirst)
@@ -10,6 +11,12 @@
 ## Introduction
 
 The scripts in this repo are scripts I've written for myself to solve problem I encounter in university life that friends or other people have asked to use. The scripts are in various states of cleanliness/readability, although they should be fairly self explanatory on how to use them. I've included short blurbs on each, although more details may be found in their respsective repositories (click the bolded repository names to go to its respective repo). If you happen to see me use any scripts that you wish to use, please feel free to ask [me](https://shreykshah.github.io/) and it's very likely I will give you access.
+
+<a name="class-scheduler"/>
+
+## [Class-Scheduler](https://github.com/shreykshah/class-scheduler)
+
+Find out in which semester to take courses such that you avoid scheduling conflicts and mazimize the courses you want to take. 
 
 <a name="onlineproctorspoofer"/>
 
