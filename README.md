@@ -30,6 +30,7 @@ Determine the optimal order to study for one's university courses
 
 ## Updates
 
+* Due to the number of requests, I will upload my LaTeX homework template. However, this may take some time as I am currently in the middle of other work and the template needs to be cleaned up for public use.
 * [OnlineProctorSpoofer](#introduction): Removed due to recent developments. I do not plan on making this available again. If interested, feel free to email me; I'd be happy to go over the concepts in broad strokes.
 * [DistanceBetweenMultiplePoints](#introduction): Removed this script as I am no longer supporting it (low useage, high number of support requests). If you want the codebase, feel free to email me asking for it.
 * [CourseScraper](https://github.com/shreykshah/CourseScraper): fixed compatibility issues
